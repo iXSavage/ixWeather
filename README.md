@@ -4,8 +4,11 @@ A beautifully designed, responsive, and robust weather application built with Fl
 
 ixWeather provides real-time weather updates, dynamic 7-day forecasting, and location-based automated weather tracking. Built with modern Flutter architecture patterns, it utilizes `Provider` for state management, `geolocator` for device hardware integration, and a highly polished UI featuring smooth Lottie micro-animations and custom gradients.
 
-*Insert a GIF or Screenshot of the app running here*
-<!-- Add an image using: <img src="assets/screenshots/demo.gif" width="300"> -->
+<img width="308" height="621" alt="Screenshot 2026-03-10 at 23 46 03" src="https://github.com/user-attachments/assets/6255a2e8-ef2a-4092-b196-729eb363fa88" />
+
+<img width="308" height="621" alt="Screenshot 2026-03-10 at 23 42 47" src="https://github.com/user-attachments/assets/d03d8732-e3e0-484f-bfaa-27bcdcb6973b" />
+
+<img width="308" height="621" alt="Screenshot 2026-03-10 at 23 46 35" src="https://github.com/user-attachments/assets/2c187746-61c4-48f9-a359-4201e4ac5bc3" />
 
 ---
 
