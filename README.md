@@ -12,6 +12,11 @@ ixWeather provides real-time weather updates, dynamic 7-day forecasting, and loc
 
 ---
 
+📦 Download APK
+[Download Latest APK](https://github.com/iXSavage/ixWeather/releases/tag/v1.0.0)
+
+---
+
 ## ✨ Features
 
 - **📍 Auto-Location via GPS**: Automatically fetches current weather and regional forecast upon launch by tapping into native device location sensors.
